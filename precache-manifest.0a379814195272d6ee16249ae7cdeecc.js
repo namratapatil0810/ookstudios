@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/ookstudios/static/media/kalhan-mattoo.6a00eaff.png"
   },
   {
-    "revision": "d3cf8f1797eb4962af0f",
-    "url": "/ookstudios/static/css/main.61283c72.chunk.css"
+    "revision": "b52182f562f3f0d02045",
+    "url": "/ookstudios/static/css/main.c60c0f9c.chunk.css"
   },
   {
     "revision": "45dd367e34ea9ada035abeadbbcdbd58",
     "url": "/ookstudios/static/media/augment.45dd367e.png"
   },
   {
-    "revision": "4ca6cf587d40b171a5f9",
-    "url": "/ookstudios/static/js/1.4ca6cf58.chunk.js"
+    "revision": "1eeae7ff615ed166151b",
+    "url": "/ookstudios/static/js/1.1eeae7ff.chunk.js"
   },
   {
     "revision": "18df1fc58b92430f35f0",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/ookstudios/static/media/big-o.b2c96e9b.png"
   },
   {
-    "revision": "d3cf8f1797eb4962af0f",
-    "url": "/ookstudios/static/js/main.d3cf8f17.chunk.js"
+    "revision": "b52182f562f3f0d02045",
+    "url": "/ookstudios/static/js/main.b52182f5.chunk.js"
   },
   {
     "revision": "ab0fc04520c8ce7c737d07f63128602f",
@@ -48,11 +48,11 @@ self.__precacheManifest = [
     "url": "/ookstudios/static/media/lab.585e56e4.png"
   },
   {
-    "revision": "4ca6cf587d40b171a5f9",
+    "revision": "1eeae7ff615ed166151b",
     "url": "/ookstudios/static/css/1.95260b32.chunk.css"
   },
   {
-    "revision": "4b91b485bc5e9b0c2ac2c661c81faaac",
+    "revision": "ac871f5217dd55dd777146e2ab8d5871",
     "url": "/ookstudios/index.html"
   }
 ];
