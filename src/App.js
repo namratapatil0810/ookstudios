@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Route, Link } from "react-router-dom";
 import "@trendmicro/react-sidenav/dist/react-sidenav.css";
 import "./css/logo.css";
 import "./css/animation.css";
