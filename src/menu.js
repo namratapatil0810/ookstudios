@@ -84,7 +84,6 @@ class Menu extends PureComponent {
                 </SideNav>
                 <Main expanded={expanded}>
                   <Route path="/" exact component={Home} />
-                  <Route path="/Home" exact component={Home} />
                   <Route path="/About" component={About} />
                 </Main>
               </React.Fragment>
