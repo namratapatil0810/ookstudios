@@ -1,0 +1,12 @@
+table {
+  border: 2px solid black;
+  display: inline-table;
+}
+td {
+}
+tr {
+}
+.row {
+  margin-right: 0;
+  margin-left: 0;
+}

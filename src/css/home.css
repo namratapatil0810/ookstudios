@@ -1,0 +1,318 @@
+/*logo section */
+.center {
+  text-align: center !important;
+  display: block;
+}
+.hl {
+  border-left: 6px solid green;
+  height: 500px;
+}
+.row {
+  margin-right: 0;
+  margin-left: 0;
+}
+.col-lg-1,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-md-1,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-sm-1,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-xs-1,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9 {
+  padding-left: 0;
+  padding-right: 0;
+}
+.maroon {
+  color: #8b0000;
+}
+.main {
+  margin-bottom: 20px;
+}
+.small-O {
+  float: right;
+}
+.margin-type1 {
+  margin-top: 300px;
+  margin-right: -120px;
+}
+.typewriter-1 {
+  overflow: hidden;
+  letter-spacing: 0.1em; /* Adjust as needed */
+  animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+  font-size: 36px;
+  text-align: right;
+  white-space: nowrap;
+  color: black;
+}
+.typewriter-2 {
+  overflow: hidden;
+  letter-spacing: 0.1em; /* Adjust as needed */
+  animation-delay: 5.5s !important;
+  animation: typing 2.5s steps(30, end), blink-caret 0.5s step-end infinite;
+  font-size: 36px;
+  text-align: left;
+  white-space: nowrap;
+  animation-fill-mode: both;
+  color: black;
+}
+/* The typing effect */
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.typewriter-class-1 {
+  margin: 0 15% 0 20%;
+}
+.typewriter-class-2 {
+  margin: -2% 0 0 15%;
+}
+/* logo section complete*/
+/*about-block*/
+.about {
+  background: #a23333;
+  padding: 50px 100px;
+}
+.how-we-do {
+  padding: 25px 100px;
+}
+.margin-top-20 {
+  margin-top: 40px;
+}
+.about-margin-left {
+  padding: 0 120px;
+  margin: 50px 0;
+  text-align: center;
+  line-height: 2.5em;
+  letter-spacing: 3px;
+}
+.about-heading {
+  text-align: left;
+  color: white;
+  width: fit-content;
+}
+.person-img {
+  float: right;
+  width: 100%;
+  margin-top: 50px;
+}
+.text-data {
+  font-size: 20px;
+  text-align: justify;
+}
+.white {
+  color: white;
+}
+.black {
+  color: black;
+}
+.big-x {
+  font-size: 48px;
+  margin: 20px;
+  text-align: center;
+}
+.parteners {
+  margin: 0 100px;
+}
+.client-img {
+  width: 30%;
+}
+@media (max-width: 767px) {
+  .about-margin-left {
+    padding: 0;
+    margin-top: 20px;
+  }
+  .about-heading {
+    text-align: center;
+    margin-left: 0;
+    margin-top: 10px;
+  }
+  .col-6 {
+    width: 50%;
+    float: left;
+  }
+  .text-data {
+    font-size: 18px;
+  }
+  .big-x {
+    font-size: 25px;
+    margin: 10px;
+    text-align: center;
+  }
+  .margin-type1 {
+    margin-top: 80px;
+    margin-right: -20px;
+    margin-left: -20px;
+  }
+  .typewriter-1,
+  .typewriter-2 {
+    font-size: 14px;
+  }
+  .typewriter-class-1 {
+    margin-left: 15px;
+    margin: 0 10% 0 10%;
+  }
+  .typewriter-class-2 {
+    margin-left: 15px;
+    margin: -2% 0 0 10%;
+  }
+  .about {
+    padding: 20px 50px;
+  }
+  .how-we-do {
+    padding: 20px 50px;
+  }
+  .person-img {
+    margin-top: 0;
+  }
+  .parteners {
+    margin: 0 20px;
+  }
+}
+@media (min-width: 768px) {
+  .about-margin-left {
+    padding: 0 40px;
+    margin: 0;
+  }
+  .person-img {
+    margin-top: 20px;
+  }
+  .col-sm-6 {
+    width: 50%;
+  }
+  .text-data {
+    font-size: 18px;
+  }
+  .margin-type1 {
+    margin-top: 150px;
+    margin-right: -40px;
+    margin-left: -20px;
+  }
+  .typewriter-1,
+  .typewriter-2 {
+    font-size: 18px;
+  }
+  .big-x {
+    font-size: 36px;
+    margin: 20px;
+    text-align: center;
+  }
+  .typewriter-class-1 {
+    margin-left: 15px;
+    margin: 0 10% 0 10%;
+  }
+  .typewriter-class-2 {
+    margin-left: 15px;
+    margin: -2% 0 0 10%;
+  }
+  .parteners {
+    margin: 0 50px;
+  }
+}
+@media (min-width: 1200px) {
+  .about-margin-left {
+    padding: 0 120px;
+    margin: 50px 0;
+    text-align: center;
+    line-height: 2.5em;
+    letter-spacing: 3px;
+  }
+  .col-lg-6 {
+    width: 50%;
+  }
+  .typewriter-1,
+  .typewriter-2 {
+    font-size: 36px;
+  }
+  .margin-type1 {
+    margin-top: 300px;
+    margin-right: -120px;
+  }
+  .typewriter-class-1 {
+    margin: 0 15% 0 20%;
+  }
+  .typewriter-class-2 {
+    margin: -2% 0 0 15%;
+  }
+  .text-data {
+    font-size: 18px;
+  }
+  .parteners {
+    margin: 0 100px;
+  }
+}
+.border {
+  border: 1px #8b0000 solid;
+  height: 100px;
+}
+.table {
+  padding: 20px;
+}
+
+.background-maroon {
+  background: #8b0000;
+  color: white;
+  padding: 20px;
+}
+.align-left {
+  text-align: left;
+}
+.align-right {
+  text-align: right;
+}
+.align-center {
+  text-align: center;
+}
+.align-justify {
+  text-align: justify;
+}
+ul {
+  list-style-type: none;
+  color: black;
+  margin: 40px;
+  font-size: 20px;
+}
