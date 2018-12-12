@@ -10,7 +10,7 @@ function About() {
         <div class="col-lg-6 col-md-6 col-sm-6 margin-type1">
           <div class="typewriter-class-1">
             <a href="http://www.ook.studio/">
-              <p class="typewriter-1">ytewgfiuyk4gjm9pod3tnlh5ijkmcgkhj</p>
+              <p class="typewriter-1">Page Is under Construction</p>
             </a>
           </div>
         </div>
