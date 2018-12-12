@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/ookstudios/static/css/1.95260b32.chunk.css"
   },
   {
-    "revision": "1a39a3748ee8b0624429454283c216ac",
+    "revision": "4b91b485bc5e9b0c2ac2c661c81faaac",
     "url": "/ookstudios/index.html"
   }
 ];
