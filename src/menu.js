@@ -1,7 +1,6 @@
 import React, { PureComponent } from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import styled from "styled-components";
-import "@trendmicro/react-sidenav/dist/react-sidenav.css";
 import "./css/sidenav.css";
 import SideNav, {
   Toggle,
